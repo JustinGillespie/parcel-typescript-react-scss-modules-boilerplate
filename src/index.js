@@ -1,1 +1,1 @@
-export { default as Coffee } from "./coffee.jsx";
+export { default as Button } from "./components/button/button";
