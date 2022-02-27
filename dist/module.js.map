@@ -1,0 +1,1 @@
+{"mappings":";;;oDCAiC,CAAC;IAChC,MAAM,0BAAE,CAAG;kBAAC,CAA2B;;AACzC,CAAC","sources":["src/index.js","src/coffee.jsx"],"sourcesContent":["export { default as Coffee } from \"./coffee.jsx\";\n","export default function Coffee() {\n  return <div>Coffee is Wicked Delicious!</div>;\n}\n"],"names":[],"version":3,"file":"module.js.map"}
